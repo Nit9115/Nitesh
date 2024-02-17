@@ -415,7 +415,7 @@ span{
 .education .education-row{
 display: flex;
 flex-wrap: wrap;
-gap: 4rem;
+gap: 5rem;
 }
 .education-row .education-column{
     flex-direction: 1 1 40rem;
@@ -432,7 +432,7 @@ gap: 4rem;
 }
 .education-box .education-content{
     position: relative;
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 .education-box .education-content::before{
     content: '';
